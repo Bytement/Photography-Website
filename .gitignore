@@ -1,0 +1,9 @@
+# Environment Variable Files
+**/*.env
+
+# VSCode Files
+**/.vscode
+
+# Website Specifics
+**/database
+**/nginx/logs
